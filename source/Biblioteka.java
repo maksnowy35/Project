@@ -13,6 +13,16 @@ public class Biblioteka {
         petla: while (true) {
             while (true) {
                 System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
+                System.out.println("1. Stworz nowa ksiazke\n2. Pokaz moje ksiazki\n3. Wyjdz z programu");
                 System.out.println("Ktora akcje chcesz wykonac?");
                 String nazwaOperacji = scanner.nextLine();
                 try {
