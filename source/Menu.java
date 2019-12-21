@@ -28,7 +28,7 @@ public class Menu {
         String nazwisko = scr.nextLine();
         String nick = scr.nextLine();
         int wiek = scr.nextInt();
-        User uzytkownik = new User(imie, nazwisko, nick, wiek);
+        Uzytkownik uzytkownik = new Uzytkownik(imie, nazwisko, nick, wiek);
 
     }
 }

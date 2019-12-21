@@ -1,4 +1,4 @@
-public class User {
+public class Uzytkownik {
     String imie;
     String nazwisko;
     String nick;
@@ -36,7 +36,7 @@ public class User {
         this.wiek = wiek;
     }
 
-    public User(String imie, String nazwisko, String nick, int wiek) {
+    public Uzytkownik(String imie, String nazwisko, String nick, int wiek) {
         this.imie = imie;
         this.nazwisko = nazwisko;
         this.nick = nick;
